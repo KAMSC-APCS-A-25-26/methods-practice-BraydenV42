@@ -27,7 +27,7 @@ public class TripPlanner {
         // TODO: Display results using a void method
         displayResults(tripCost, fuel, travelTime);
     }
-    
+    //
     // TODO: Implement calculateTravelTime method
     public static double calculateTravelTime(double a, double b) {
         return b / a;
